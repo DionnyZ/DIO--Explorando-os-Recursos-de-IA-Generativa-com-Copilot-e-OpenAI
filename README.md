@@ -17,7 +17,7 @@ O objetivo desse desafio foi escrever um resumo sobre o que foi apresentado e ut
 
 ## Reconhecimento de texto em imagem
 
-Foi utilizado o site https://convertio.co/pt/ocr/ para o reconhecimento de texto em imagem.
+Foi utilizado o site https://convertio.co para o reconhecimento de texto em imagem.
 
 ### Imagem 1
 <img src="./inputs/jim-carrey.png" width="300">
